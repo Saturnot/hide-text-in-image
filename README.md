@@ -8,6 +8,7 @@ En informatique, chaque chiffre peut être traduit en binaire par exemple:
 81 = 1010001
 29 = 11101
 la couleur ressemble à ça :
+
 ![image](https://github.com/Saturnot/hide-text-in-image/assets/64526188/93fb5773-9078-4e61-9039-4f1cebd29539)
 
 On peut ajouter autant de zéro que l'on veut devant ça ne changera pas la valeur (10111 = 0000000010111).
@@ -26,6 +27,7 @@ On remplace la fin de chaque couleur (rouge, vert, bleu) par un "bout" du "c" ce
 01010001 -> 01010100 -> 84
 00011101 -> 00011011 -> 27
 la couleur modifiée ressemble donc à ça :
+
 ![image](https://github.com/Saturnot/hide-text-in-image/assets/64526188/474adb5a-8fcf-4e03-931c-cf5b5ddf0227)
 
 
